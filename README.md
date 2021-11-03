@@ -26,5 +26,6 @@ Website simples que mostra a temperatura em celsius usando uma API e mostra um c
 <br><br>
 <p>Após a instalação, digite o comando:</p>
 <code>lite-server</code>
-
- Qualquer problema ou perguntas, pode falar!
+<br><br>
+<br>
+ <p>Qualquer problemas ou perguntas, pode falar!</p>
